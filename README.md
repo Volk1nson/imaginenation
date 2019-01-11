@@ -25,3 +25,5 @@ Special thanks goes to Coldrake, who founded Imagine Nation, and maka, who did m
 of the work in the beginning and built the ground of this server.
 
 /Taran
+
+11/01/2019 - Mission is to change everything and create something new.
