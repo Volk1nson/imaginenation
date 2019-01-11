@@ -171,7 +171,7 @@ namespace Server.Misc
         // --- SETTINGS ---
 
         //   Sets the delay between world saves.
-        private static readonly TimeSpan m_Delay = TimeSpan.FromMinutes(30.0);
+        private static readonly TimeSpan m_Delay = TimeSpan.FromMinutes(60.0);
 
 
         // Use one of the following m_Warning settings:
